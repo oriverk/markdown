@@ -6,7 +6,7 @@ tags: markdown
 image:
 lang: ja
 description: テスト記事
-publish: true
+published: true
 ---
 
 # 記法一覧
